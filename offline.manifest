@@ -2,6 +2,8 @@ CACHE MANIFEST
 # 2018-11-25 v1.0.0
 CACHE:
 index.html
+index.css
+site_global.css
 assets\dbsg.html
 assets\exploit.css
 assets\hen106.html
@@ -9,5 +11,3 @@ assets\hen108.html
 assets\henlite.html
 assets\vtxdump.html
 assets\vtxftp.html
-css\index.css
-css\site_global.css
