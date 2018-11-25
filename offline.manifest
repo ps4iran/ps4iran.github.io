@@ -1,9 +1,6 @@
-CACHE MANIFEST 
-# 2018-11-25 v1.0.0
-CACHE:
-index.html
+CACHE MANIFEST
 index.css
-site_global.css
+index.html
 assets\dbsg.html
 assets\exploit.css
 assets\hen106.html
