@@ -1,6 +1,7 @@
 CACHE MANIFEST
-index.css
 index.html
+muse_manifest.xml
+sitemap.xml
 assets\dbsg.html
 assets\exploit.css
 assets\hen106.html
@@ -8,3 +9,18 @@ assets\hen108.html
 assets\henlite.html
 assets\vtxdump.html
 assets\vtxftp.html
+css\index.css
+css\site_global.css
+images\backupicon.png
+images\dumpicon.png
+images\ftpicon.png
+images\henicon16.png
+images\henicon17.png
+images\henicon18.png
+images\ps4_logo.png
+scripts\jquery-1.8.3.min.js
+scripts\jquery.watch.js
+scripts\museconfig.js
+scripts\museutils.js
+scripts\require.js
+scripts\whatinput.js
